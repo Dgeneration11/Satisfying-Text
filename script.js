@@ -73,11 +73,9 @@ function animate() {
     if (shouldIncrementIndex) {
       textIndex++;
     }
-
     doMorph();
   } else {
     doCooldown();
   }
 }
-
 animate();
