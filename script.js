@@ -4,13 +4,13 @@ const elts = {
   text2: document.getElementById("text2") };
 
 const texts = [
-"Why",
+"My",
+"name",
 "is",
-"this",
-"so",
-"satisfying",
-"to",
-"watch?"];
+"Bunty",
+"and",
+"watch",
+"this"];
 
 const morphTime = 1;
 const cooldownTime = 0.25;
